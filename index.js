@@ -6,6 +6,9 @@ const escapeHtml = require('escape-html');
 
 
 
+
+
+
 function checkUserName(userName){
   return userName === 'SEB' || userName === 'SNYK';
 }
